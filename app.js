@@ -55,7 +55,3 @@ app.post('/failure', function(req, res) {
 app.listen(process.env.PORT || 3000, function(req, res) {
     console.log('Server started at port 3000')
 })
-
-// 73ae270ac2006a6dc32320a2a3746e9c-us3
-// 73ae270ac2006a6dc32320a2a3746e9c-us3
-// 42b4d5fe14
